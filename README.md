@@ -34,6 +34,7 @@ alt="abd alrhman alshafei" width="100%"/>
 - JavaScript
 - HTML 5
 - Bootstrap 5
+- CSS
 
 # MySQL Database
 create database (Database: `lms`) and import file (database.sql) and run scripts
